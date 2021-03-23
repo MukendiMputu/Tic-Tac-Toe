@@ -1,0 +1,8 @@
+#!/home/mukendi/PycharmProjects/Tic-Tac-Toe/.idea/VirtualEnvironment/bin/python
+# -*- coding: utf-8 -*-
+import re
+import sys
+from planetarypy.utils import nasa_date_to_iso_command
+if __name__ == '__main__':
+    sys.argv[0] = re.sub(r'(-script\.pyw|\.exe)?$', '', sys.argv[0])
+    sys.exit(nasa_date_to_iso_command())

@@ -1,0 +1,12 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: '# change the name of the 5th planet in planets'
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7280#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sat, 13 Mar 2021 23:12:22 UTC
+record: -1

@@ -1,0 +1,25 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    hero_damage = 100
+
+
+    def double_damage():
+        pass
+
+
+    def disarmed():
+        pass
+
+
+    def power_potion():
+        pass
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9900#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sun, 21 Mar 2021 12:29:44 UTC
+record: -1
